@@ -1,4 +1,4 @@
-#!/bin/bash
+
 set -x
 
 SOURCES_FILE=/etc/apt/sources.list.d/zulip.list
