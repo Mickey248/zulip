@@ -71,7 +71,7 @@ if 'DEBUG' not in globals():
     # Uncomment end of next line to test CSS minification.
     # For webpack JS minification use tools/run_dev.py --minify
     DEBUG = DEVELOPMENT  # and platform.node() != 'your-machine'
-
+#phpmyadmin for work
 if DEBUG:
     INTERNAL_IPS = ('127.0.0.1',)
 
